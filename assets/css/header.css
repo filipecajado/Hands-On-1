@@ -1,13 +1,5 @@
-header {
-  width: 1024px;
-  /* Centraliza o bloco na tela */
-  margin: 30px auto;
-  display: flex;
-  flex-direction: row;
-
-  /* Espaçar os elementos */
+header section {
   justify-content: space-between;
-  /* Alinhar os items no centro */
   align-items: center;
 }
 
