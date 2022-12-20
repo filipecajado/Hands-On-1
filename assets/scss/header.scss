@@ -1,0 +1,40 @@
+header {
+
+  //Section
+  section {
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  //End Section
+
+  //Nav
+  nav {
+
+    //ul
+    ul {
+
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+
+      //li
+      li {
+
+        //a
+        a {
+          margin: 0 15px;
+          color: $color-primaria;
+        }
+
+        //End a
+      }
+
+      //End li
+    }
+
+    //End ul
+  }
+
+  //End Nav
+}
